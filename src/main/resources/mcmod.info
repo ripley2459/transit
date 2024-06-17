@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "With this mod you can travel between dimensions with a command.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "transit.png",
+    "url": "https://github.com/ripley2459/transit",
+    "authorList": [
+      "Ripley2459"
+    ],
+    "credits": "The Minecraft modding community for artistic and technical inspiration/guides.",
+    "dependencies": []
+  }
+]
